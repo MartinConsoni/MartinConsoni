@@ -1,12 +1,14 @@
 # 💼 Martin Consoni
 
-**Developer**
+**`Developer/Administrator`**
 
-- 🧭 Exploring and learning about the back-end world.
-- 🦖 Completely focused on COBOL.
+🧭 Exploring and learning about the back-end world.
 
-<h2 class="heading-element" dir="auto">🌐 Social Media:</h2>
+🦖 Completely focused on COBOL.
 
-<p align="left"><a href= "https://www.linkedin.com/in/mart%C3%ADn-andr%C3%A9s-consoni-1225662b1/"><img alt="LinkedIn icon"> title="Check my LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white"/<>/a>
-<a href="https://instagram.com/martinconsoni" rel="nofollow"><img alt="Instagram icon"> title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white"/<>/a>
-</p>
+<p align="left">
+      <a href="https://linkedin.com/in/martinconsoni">
+         <img alt="LinkedIn profile" title="Check my Linkedin profile" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white"/></a> 
+      <a href="https://instagram.com/martinconsoni">
+         <img alt="Instagram profile" title="Check my Instagram profile" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white"></a>
+   </p>
